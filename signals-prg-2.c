@@ -23,6 +23,6 @@ else {
     
 } }
 while (wait(NULL) != -1) ; // pour quoi ca 
-printf("cpt = %d\n", cpt); // 
+printf("cpt = %d\n", cpt); // pour l'affichage 
 return 0;
 }

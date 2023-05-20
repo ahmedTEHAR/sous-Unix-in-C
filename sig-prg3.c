@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <signal.h>
-#define val ...
+#define val 3
 int compteur, nb1 = 1, nb2 = 1;
 pid_t pid1, pid2;
 void Hand_P (int sig) {
